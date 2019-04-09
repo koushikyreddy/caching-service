@@ -50,25 +50,25 @@ If the key doesn’t exist in the cache, the API will return a 404 status code.
 
 ## <http://localhost/get/test>
 
-![](media/5c594ad48723c1fd8467fc50577e67cc.png)
+![](images/gettest.png)
 
 Adding a key to redis by doing a POST.
 
-![](media/4cd9fb3ef73d278943bc0cc502c91730.png)
+![](images/post.png)
 
 **Response:**
 
-![](media/5aca0b2585a6bff01ea1d3959b476f89.png)
+![](images/postresponse.png)
 
 Adding a key to redis by doing a POST.
 
-![](media/58bbed117514983c36a9ee830eff9b3d.png)
+![](images/keyadd.png)
 
 **Response:**
 
 ## <http://localhost/get/koushik>
 
-![](media/9e152772f94ae8e378b8416984a8a13a.png)
+![](images/getkoushik.png)
 
 **HEROKU DEPLOY**
 
