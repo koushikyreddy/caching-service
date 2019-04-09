@@ -4,7 +4,7 @@ A simple caching service (written in Python) that allows connected microservices
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Create a docker network for the 2 conatiners to communicate.
 
