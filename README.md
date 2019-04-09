@@ -124,6 +124,11 @@ Now open the app in your browser:
 ```bash
 $ heroku open --app caching-koushik
 ```
+URL to access the app:
+
+```bash
+https://caching-koushik.herokuapp.com/
+```
 
 **HEROKU REDIS:**
 
